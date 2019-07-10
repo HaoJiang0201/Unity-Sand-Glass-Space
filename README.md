@@ -1,7 +1,9 @@
 # Unity Project: Sand Glass Space
 
-Run away from a special sand glass space which will decide your destiny.  
-Try you best to survive from the pure evil this time.
+High school student YuTong was sleeping on the bus during his summer camp trip.  
+However, the destination hotel turn into a special sand galss space all of sudden.  
+He needs to find out the truth and look for a way out together with best friends.  
+Will they survive from pure evil this time?
 
 Notes:
 * This repo just contains the demo application wihout original codes and project via to copyright.
