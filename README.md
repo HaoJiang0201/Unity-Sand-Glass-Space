@@ -19,4 +19,5 @@ Created By:
 2. Run the SandGlassSpace.exe to view the demo.
 
 ## Screenshots
-![Screenshot of Budgestory](https://github.com/HaoJiang0201/Cocos2d-JS-BubbleJungle/blob/master/doc/Main.jpg?raw=true)
+![Screenshot of Budgestory](https://github.com/HaoJiang0201/Unity-Sand-Glass-Space/blob/master/doc/Office.jpg?raw=true)
+![Screenshot of Budgestory](https://github.com/HaoJiang0201/Unity-Sand-Glass-Space/blob/master/doc/Washroom.jpg?raw=true)
