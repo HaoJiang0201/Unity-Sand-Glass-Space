@@ -1,7 +1,7 @@
 # Unity Project: Sand Glass Space
 
 High school student YuTong was sleeping on the bus during his summer camp trip.  
-However, the destination hotel turn into a special sand galss space all of sudden.  
+However, the destination hotel turns into a special sand glass space all of sudden.  
 He needs to find out the truth and look for a way out together with best friends.  
 Will they survive from pure evil this time?
 
